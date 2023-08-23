@@ -1,0 +1,1 @@
+# This is a simple template for common ECS Fargate deployment in AWS using Terraform
